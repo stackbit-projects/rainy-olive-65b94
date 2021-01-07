@@ -4,7 +4,7 @@
     "description": "An ultra customizable generic theme for Stackbit",
     "header": {
         "title": "Jam stack을 이용한 첫 웹사이트",
-        "has_nav": false,
+        "has_nav": true,
         "nav_links": [
             {
                 "label": "Features",
