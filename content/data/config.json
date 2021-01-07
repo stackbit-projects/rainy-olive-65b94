@@ -32,7 +32,8 @@
                 "url": "/contact",
                 "style": "primary"
             }
-        ]
+        ],
+        "logo": "images/다운로드.jfif"
     },
     "footer": {
         "has_nav": true,
