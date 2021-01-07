@@ -3,9 +3,7 @@ title: Home
 sections:
   - type: hero_section
     title: 별 헤는 바메 코딩대회
-    subtitle: >-
-      Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nullam a metus
-      quis lorem malesuada luctus.
+    subtitle: ''
     actions:
       - label: Learn More
         url: /features
