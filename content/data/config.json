@@ -32,7 +32,8 @@
                 "url": "/contact",
                 "style": "primary"
             }
-        ]
+        ],
+        "logo": "images/pink-celery.jfif"
     },
     "footer": {
         "has_nav": true,
