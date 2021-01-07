@@ -3,7 +3,7 @@
     "path_prefix": "/",
     "description": "An ultra customizable generic theme for Stackbit",
     "header": {
-        "title": "첫 웹사이트",
+        "title": "",
         "has_nav": true,
         "nav_links": [
             {
